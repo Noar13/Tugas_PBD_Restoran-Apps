@@ -1,0 +1,7 @@
+Makanan|Nasi Padang|25000.0|Berat
+Makanan|Mie Goreng|20000.0|Berat
+Makanan|Ayam Bakar|45000.0|Berat
+Minuman|Es Teh|10000.0|Dingin
+Minuman|Jus Jeruk|15000.0|Dingin
+Makanan|Bakso Super|30000.0|Berat
+Minuman|Es Kuwut|20000.0|Dingin

@@ -1,0 +1,21 @@
+
+================================
+       STRUK PEMBAYARAN         
+================================
+Pelanggan : Santoso
+Waktu     : 31-05-2026 13:29:55
+--------------------------------
+2x Nasi Padang        Rp 50.000
+5x Es Kuwut           Rp 60.000
+5x Bakso Super        Rp 150.000
+--------------------------------
+Total Item  : 12
+Subtotal    : Rp 260.000
+Diskon      : -Rp 26.000
+Pajak 10%   : Rp 23.400
+Pelayanan   : Rp 20.000
+================================
+GRAND TOTAL : Rp 277.400
+================================
+   Terima kasih Datang Kembali   
+================================
